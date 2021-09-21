@@ -1,0 +1,16 @@
+body{
+    background-image: url(img/postobon3.jpg);
+}
+h1{
+    color: blue;
+}
+h3{
+    color:greenyellow;
+}
+footer{
+    text-align: center;
+    background-color: blue;
+  }
+  footer{
+   background-color: chartreuse;
+}

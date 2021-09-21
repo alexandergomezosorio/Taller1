@@ -1,0 +1,17 @@
+body{
+    background-image: url(img/body1.jpg);   
+}
+h1{
+    color: orangered;
+    
+}
+form input{
+    
+     border-radius: 50px;
+     margin: 5px;
+ }
+ 
+
+
+
+

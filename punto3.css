@@ -1,0 +1,15 @@
+main{
+    background-color: royalblue;
+}
+form input{
+     
+    margin: 15px;
+}
+footer{
+    text-align:justify center;
+    background-color: blue;
+  }
+footer p{
+    font-size: small;
+    color: white;
+  }
